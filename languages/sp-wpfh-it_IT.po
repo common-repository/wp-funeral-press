@@ -1,0 +1,1624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Funeral Press 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-20 13:42-0500\n"
+"PO-Revision-Date: 2014-01-20 13:42-0500\n"
+"Last-Translator: Anthony Brown <support@smartypantsplugins.com>\n"
+"Language-Team: smarty <anthony@dlgresults.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../../wp-funeral-home-cemetery\n"
+
+#: ../admin/guestbook.php:8
+msgid "View Guestbook Postings"
+msgstr "Visiona Pubblicazioni Guestbook"
+
+#: ../admin/guestbook.php:10 ../admin/obits.php:235 ../includes/common.php:145
+msgid "Guestbook"
+msgstr "Guestbook"
+
+#: ../admin/guestbook.php:102 ../user/obits.php:767
+msgid "Posted by"
+msgstr "Pubblicato da"
+
+#: ../admin/guestbook.php:106
+msgid "Posting On"
+msgstr "Pubblicato Su"
+
+#: ../admin/guestbook.php:110 ../user/obits.php:636
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:135
+msgid "Message"
+msgstr "Messaggio"
+
+#: ../admin/guestbook.php:146
+msgid "Approved"
+msgstr "Approvato"
+
+#: ../admin/guestbook.php:149 ../admin/obits.php:211 ../admin/obits.php:314
+#: ../../wp-funeral-home-cemetery/source/user/update.php:127
+#: ../../wp-funeral-home-cemetery/source/user/update.php:286
+#: ../../wp-funeral-home-cemetery/user/update.php:127
+#: ../../wp-funeral-home-cemetery/user/update.php:286
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:127
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:286
+msgid "Yes"
+msgstr "Si"
+
+#: ../admin/guestbook.php:150 ../admin/obits.php:209 ../admin/obits.php:313
+#: ../../wp-funeral-home-cemetery/source/user/update.php:126
+#: ../../wp-funeral-home-cemetery/source/user/update.php:285
+#: ../../wp-funeral-home-cemetery/user/update.php:126
+#: ../../wp-funeral-home-cemetery/user/update.php:285
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:126
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:285
+msgid "No"
+msgstr "No"
+
+#: ../admin/guestbook.php:240 ../admin/obits.php:60
+msgid "Date"
+msgstr "Data"
+
+#: ../admin/guestbook.php:241 ../admin/obits.php:61
+msgid "Posted On"
+msgstr "Pubblicato su"
+
+#: ../admin/guestbook.php:242 ../admin/obits.php:62
+msgid "Poster Name"
+msgstr "Nome Pubblicatore"
+
+#: ../admin/guestbook.php:243 ../admin/obits.php:63
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1299
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1299
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1299
+msgid "Type"
+msgstr "Tipo"
+
+#: ../admin/guestbook.php:244 ../admin/obits.php:64
+msgid "Message Preview"
+msgstr "Anteprima Messaggio"
+
+#: ../admin/guestbook.php:245 ../admin/obits.php:65 ../admin/obits.php:467
+#: ../../wp-funeral-home-cemetery/admin/churches.php:561
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:481
+#: ../../wp-funeral-home-cemetery/admin/sections.php:223
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:561
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:481
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:223
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:561
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:481
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:223
+msgid "Action"
+msgstr "Azione"
+
+#: ../admin/guestbook.php:252
+#, fuzzy
+msgid "No Posts Found"
+msgstr "Nessuna Pubblicazione Trovata"
+
+#: ../admin/guestbook.php:259 ../admin/obits.php:79
+msgid "Unapprove"
+msgstr "Non approvare"
+
+#: ../admin/guestbook.php:265 ../admin/obits.php:85
+msgid "Approve"
+msgstr "Aapprovare"
+
+#: ../admin/guestbook.php:290 ../admin/obits.php:113
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:116
+#: ../../wp-funeral-home-cemetery/user/profile.php:116
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:116
+msgid "View Photo"
+msgstr "Visiona Foto"
+
+#: ../admin/guestbook.php:296 ../admin/obits.php:119
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:126
+#: ../../wp-funeral-home-cemetery/user/profile.php:126
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:126
+msgid "View Video"
+msgstr "Visiona Video"
+
+#: ../admin/guestbook.php:307 ../admin/obits.php:130 ../admin/obits.php:493
+#: ../../wp-funeral-home-cemetery/admin/churches.php:583
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:495
+#: ../../wp-funeral-home-cemetery/admin/sections.php:245
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:583
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:495
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:245
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:583
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:495
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:245
+msgid "Delete"
+msgstr "Elimina"
+
+#: ../admin/guestbook.php:308 ../admin/obits.php:11 ../admin/obits.php:131
+msgid "View"
+msgstr "Visiona"
+
+#: ../admin/obits.php:12
+msgid "Add"
+msgstr "Aggiungi"
+
+#: ../admin/obits.php:72
+msgid "No posts Found"
+msgstr "Nessuna Pubblicazione Trovata"
+
+#: ../admin/obits.php:234
+msgid "Obit"
+msgstr "Necrologio"
+
+#: ../admin/obits.php:238
+msgid "QR Code"
+msgstr "Codice QR"
+
+#: ../admin/obits.php:240
+#, fuzzy
+msgid "View Obit"
+msgstr "Visiona Settaggi"
+
+#: ../admin/obits.php:268 ../admin/obits.php:466
+msgid "Published"
+msgstr "Pubblicato"
+
+#: ../admin/obits.php:272 ../admin/obits.php:454 ../user/obits.php:67
+#: ../user/shortcodes.php:54 ../user/widget-search.php:41
+#: ../user/widgets.php:217
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:222
+#: ../../wp-funeral-home-cemetery/source/user/update.php:256
+#: ../../wp-funeral-home-cemetery/user/profile.php:222
+#: ../../wp-funeral-home-cemetery/user/update.php:256
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:222
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:256
+msgid "First Name"
+msgstr "Nome"
+
+#: ../admin/obits.php:276
+#: ../../wp-funeral-home-cemetery/source/user/update.php:260
+#: ../../wp-funeral-home-cemetery/user/update.php:260
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:260
+msgid "Middle Initial"
+msgstr "Secondo Nome"
+
+#: ../admin/obits.php:280 ../admin/obits.php:454 ../user/obits.php:67
+#: ../user/shortcodes.php:54 ../user/widget-search.php:44
+#: ../user/widgets.php:220
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:226
+#: ../../wp-funeral-home-cemetery/source/user/update.php:264
+#: ../../wp-funeral-home-cemetery/user/profile.php:226
+#: ../../wp-funeral-home-cemetery/user/update.php:264
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:226
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:264
+msgid "Last Name"
+msgstr "Cognome"
+
+#: ../admin/obits.php:284
+#: ../../wp-funeral-home-cemetery/source/user/update.php:268
+#: ../../wp-funeral-home-cemetery/user/update.php:268
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:268
+msgid "Maiden Name"
+msgstr "Cognome Da Nubile"
+
+#: ../admin/obits.php:288
+#: ../../wp-funeral-home-cemetery/source/user/update.php:272
+#: ../../wp-funeral-home-cemetery/user/update.php:272
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:272
+msgid "Birth Date"
+msgstr "Data Di Nascita"
+
+#: ../admin/obits.php:292 ../admin/obits.php:454 ../user/obits.php:67
+#: ../user/shortcodes.php:54 ../user/widget-search.php:47
+#: ../user/widgets.php:223
+#: ../../wp-funeral-home-cemetery/source/user/update.php:276
+#: ../../wp-funeral-home-cemetery/user/update.php:276
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:276
+msgid "Death Date"
+msgstr "Data Di Morte"
+
+#: ../admin/obits.php:296
+msgid "Funeral Services Date"
+msgstr "Data Funerale"
+
+#: ../admin/obits.php:302
+msgid "Visitation Notes"
+msgstr "Note Visite"
+
+#: ../admin/obits.php:310
+#: ../../wp-funeral-home-cemetery/source/user/update.php:282
+#: ../../wp-funeral-home-cemetery/user/update.php:282
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:282
+msgid "Is a US Veteran?"
+msgstr "E' Un Militare?"
+
+#: ../admin/obits.php:334
+#: ../../wp-funeral-home-cemetery/source/user/update.php:307
+#: ../../wp-funeral-home-cemetery/user/update.php:307
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:307
+msgid "Current Photo"
+msgstr "Foto Corrente"
+
+#: ../admin/obits.php:342
+#: ../../wp-funeral-home-cemetery/source/user/update.php:315
+#: ../../wp-funeral-home-cemetery/user/update.php:315
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:315
+msgid "New Photo"
+msgstr "Nuova Foto"
+
+#: ../admin/obits.php:349 ../user/obits.php:639 ../user/obits.php:670
+#: ../../wp-funeral-home-cemetery/source/user/update.php:321
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:379
+#: ../../wp-funeral-home-cemetery/user/update.php:321
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/update.php:321
+msgid "Photo"
+msgstr "Foto"
+
+#: ../admin/obits.php:453 ../user/obits.php:66 ../user/shortcodes.php:53
+#: ../user/shortcodes.php:55 ../user/widget-search.php:50
+#: ../user/widgets.php:226
+msgid "Search"
+msgstr "Cerca"
+
+#: ../admin/obits.php:454
+#, fuzzy
+msgid "Search!"
+msgstr "Cerca"
+
+#: ../admin/obits.php:463
+#: ../../wp-funeral-home-cemetery/admin/churches.php:557
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:477
+#: ../../wp-funeral-home-cemetery/admin/sections.php:219
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:557
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:477
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:219
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:557
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:477
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:219
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/obits.php:464 ../user/obits.php:627
+#: ../../wp-funeral-home-cemetery/admin/churches.php:559
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:479
+#: ../../wp-funeral-home-cemetery/admin/sections.php:221
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:559
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:479
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:221
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:366
+#: ../../wp-funeral-home-cemetery/user/headstone.php:319
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:559
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:479
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:221
+msgid "Name"
+msgstr "Nome"
+
+#: ../admin/obits.php:465
+msgid "Deceased Date"
+msgstr "Data Decesso"
+
+#: ../admin/obits.php:474 ../user/obits.php:315
+#, php-format
+msgid "No %s Found"
+msgstr "Nessun %s Trovato"
+
+#: ../admin/obits.php:494
+msgid "Modify"
+msgstr "Modifica"
+
+#: ../admin/settings.php:10
+msgid "Email Text"
+msgstr "Testo Email"
+
+#: ../admin/settings.php:11
+msgid "Custom CSS"
+msgstr "Css Customizzato"
+
+#: ../admin/settings.php:23 ../includes/install.php:161
+msgid "Settings"
+msgstr "Settaggi"
+
+#: ../admin/settings.php:33
+msgid ""
+"You are currently using custom css! If you wish to reset back to default css "
+"please delete the obits.css in your template directory"
+msgstr ""
+"Stai attualmente usando css customizzato! Se desideri tornare alle "
+"impostazioni di default elimina il file obits.css nella cartella del tuo "
+"tema."
+
+#: ../admin/settings.php:37
+msgid ""
+"If you would like to create custom css, copy the css code below. Open your "
+"template folder and create a file called obits.css. Paste the css in the "
+"file and upload. The plugin will detect the custom css file exists and will "
+"use that file instead."
+msgstr ""
+"Se desideri creare un css customizzato, copia il codice sottostante. Apri la "
+"cartella del tuo tema e crea un file nominandolo obits.css. Incolla il "
+"codice css nel file e caricalo. Il plugin troverà il css customizzato se "
+"esiste e lo userà al posto del default. "
+
+#: ../admin/settings.php:43
+msgid "Create this custom css file"
+msgstr "Crea questo css customizzato"
+
+#: ../admin/settings.php:68
+msgid "Saved Your Settings"
+msgstr "Salvati I Tuoi Settaggi"
+
+#: ../admin/settings.php:87 ../admin/settings.php:99
+msgid "Admin posting email"
+msgstr "Email pubblicazione amministratore"
+
+#: ../admin/settings.php:92 ../admin/settings.php:117
+#: ../admin/settings.php:147
+#: ../../wp-funeral-home-cemetery/admin/emails.php:43
+#: ../../wp-funeral-home-cemetery/admin/emails.php:73
+#: ../../wp-funeral-home-cemetery/admin/emails.php:100
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:43
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:73
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:100
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:121
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:154
+#: ../../wp-funeral-home-cemetery/user/headstone.php:113
+#: ../../wp-funeral-home-cemetery/user/headstone.php:144
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:43
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:73
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:100
+msgid "Subject"
+msgstr "Soggetto"
+
+#: ../admin/settings.php:99
+msgid "This is the admin email when a new posting has been entered."
+msgstr ""
+"Questa è la email dell' amministratore quando una nuova pubblicazione viene "
+"inserita."
+
+#: ../admin/settings.php:101 ../admin/settings.php:128
+#: ../admin/settings.php:159
+#: ../../wp-funeral-home-cemetery/admin/emails.php:54
+#: ../../wp-funeral-home-cemetery/admin/emails.php:83
+#: ../../wp-funeral-home-cemetery/admin/emails.php:110
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:54
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:83
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:110
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:132
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:165
+#: ../../wp-funeral-home-cemetery/user/headstone.php:124
+#: ../../wp-funeral-home-cemetery/user/headstone.php:155
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:54
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:83
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:110
+msgid "Obit Name"
+msgstr "Nome Necrologio"
+
+#: ../admin/settings.php:102 ../admin/settings.php:129
+#: ../admin/settings.php:160
+#: ../../wp-funeral-home-cemetery/admin/emails.php:55
+#: ../../wp-funeral-home-cemetery/admin/emails.php:84
+#: ../../wp-funeral-home-cemetery/admin/emails.php:111
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:55
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:84
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:111
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:133
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:166
+#: ../../wp-funeral-home-cemetery/user/headstone.php:125
+#: ../../wp-funeral-home-cemetery/user/headstone.php:156
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:55
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:84
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:111
+msgid "Obit Page"
+msgstr "Pagina Necrologio"
+
+#: ../admin/settings.php:103 ../admin/settings.php:130
+#: ../admin/settings.php:161
+#: ../../wp-funeral-home-cemetery/admin/emails.php:56
+#: ../../wp-funeral-home-cemetery/admin/emails.php:85
+#: ../../wp-funeral-home-cemetery/admin/emails.php:112
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:56
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:85
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:112
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:134
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:167
+#: ../../wp-funeral-home-cemetery/user/headstone.php:126
+#: ../../wp-funeral-home-cemetery/user/headstone.php:157
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:56
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:85
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:112
+msgid "Users Name"
+msgstr "Nome Utente"
+
+#: ../admin/settings.php:104
+msgid "Approval Page"
+msgstr "Pagina Di Approvazione"
+
+#: ../admin/settings.php:113 ../admin/settings.php:126
+msgid "User posting email"
+msgstr "Email pubblicazione utente"
+
+#: ../admin/settings.php:126
+msgid "This is the email which is sent to the user after they enter a posting"
+msgstr ""
+"Questa è la mail che viene inviata all'utente dopo che hanno inserito una "
+"pubblicazione"
+
+#: ../admin/settings.php:143 ../admin/settings.php:157
+msgid "User approved email"
+msgstr "Email utente approvato"
+
+#: ../admin/settings.php:157
+msgid ""
+"This is the email that is sent to the user after their posting has been "
+"approved"
+msgstr ""
+"Questa è la mail che viene inviata all'utente dopo che la loro pubblicazione "
+"viene approvata"
+
+#: ../admin/settings.php:266
+msgid "Obit Display type"
+msgstr "Tipi Visualizzazioni Necrologio "
+
+#: ../admin/settings.php:266
+msgid ""
+"There are 3 different styles to display your obits. Thumbnail mode, block "
+"mode and list mode. Check out each style and choose the best one for your "
+"website"
+msgstr ""
+"Ci sono 3 differenti stili per visualizzare i tuoi necrologi. Modalità "
+"thumbnail, modalità blocco e modalità lista. Prova ogni stile e scegli il "
+"migliore per il tuo sito"
+
+#: ../admin/settings.php:269 ../user/widget-obits-anniversary.php:199
+#: ../user/widget-obits.php:203 ../user/widgets.php:153
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: ../admin/settings.php:270
+msgid "Block"
+msgstr "Blocco"
+
+#: ../admin/settings.php:271 ../user/widget-obits-anniversary.php:199
+#: ../user/widget-obits.php:203 ../user/widgets.php:153
+msgid "List"
+msgstr "Lista"
+
+#: ../admin/settings.php:327
+msgid "Enable Search?"
+msgstr "Abilitare Cerca?"
+
+#: ../admin/settings.php:327
+msgid "Should we add a search form to the top of the obits page?"
+msgstr "Aggiungiamo un form cerca in alto nella pagina necrologi?"
+
+#: ../admin/settings.php:332
+msgid "How many Obituaries to display"
+msgstr "Quanti Necrologi visionare"
+
+#: ../admin/settings.php:332
+msgid "How many obits should we display on each page?"
+msgstr "Quanti necrologi da visionare per ogni pagina?"
+
+#: ../admin/settings.php:336
+msgid "Word for Obituaries"
+msgstr "Parola per Necrologi"
+
+#: ../admin/settings.php:336
+msgid "What should we call Obituaries?"
+msgstr "Come dovremmo chiamare i Necrologi?"
+
+#: ../admin/settings.php:340
+msgid "Word for Churches"
+msgstr "Parola per Chiese"
+
+#: ../admin/settings.php:340
+msgid "What word should we use in place of Church"
+msgstr "Quale parola dovremmo usare al posto di Chiesa"
+
+#: ../admin/settings.php:344
+msgid "Word for Funeral Home"
+msgstr "Parola per Casa Funeraria"
+
+#: ../admin/settings.php:344
+msgid "What word should we use in place of funeral home"
+msgstr "Quale parola dovremmo usare al posto di casa funeraria"
+
+#: ../admin/settings.php:348
+msgid "Word for Funeral Cemetery"
+msgstr "Parola per cimitero funerale"
+
+#: ../admin/settings.php:348
+msgid "What word should we use in place of cemetery"
+msgstr "Quale parola dovremmo usare al posto di cimitero"
+
+#: ../admin/settings.php:352
+msgid "Word for Guestbooks"
+msgstr "Parola per Guestbooks"
+
+#: ../admin/settings.php:352
+msgid "What word should we use in place of guestbook"
+msgstr "Quale parola dovremmo usare al posto di guestbook"
+
+#: ../admin/settings.php:356
+msgid "No guestbook comments text"
+msgstr ""
+
+#: ../admin/settings.php:356
+msgid "The text to display if no guestbook posts exist."
+msgstr ""
+
+#: ../admin/settings.php:360
+msgid "Order Flowers link"
+msgstr "Link Ordine Fiori"
+
+#: ../admin/settings.php:360
+msgid ""
+"There are many different flower affiliate programs available online. If you "
+"would like your users to order flowers put the full url for your flowers "
+"affiliate program. If you leave it blank the order flowers link will not "
+"show."
+msgstr ""
+"Ci sono molti diversi programmi di affiliazione di fiori disponibili on-line."
+"Se si desidera che i vostri utenti possano ordinare dei fiori metti l'url "
+"completo del vostro programma di affiliazione fiori. Se lasci in bianco il "
+"link ordine fiori non verrà visualizzato."
+
+#: ../admin/settings.php:365
+msgid "No pic image"
+msgstr "Immagine nessuna foto"
+
+#: ../admin/settings.php:365
+msgid ""
+"Upload a default picture we should use incase the deceased does not have a "
+"picture."
+msgstr ""
+"Caricare una foto di default che si dovrebbe usare in caso che il defunto "
+"non abbia una foto"
+
+#: ../admin/settings.php:371
+msgid "No default pictured loaded, please upload one."
+msgstr "Nessuna foto di default caricata, perfavore caricarne una."
+
+#: ../includes/common.php:166
+msgid "Cemetery"
+msgstr "Cimitero"
+
+#: ../includes/common.php:182
+msgid "Funeral Home"
+msgstr "Casa Funeraria"
+
+#: ../includes/common.php:200
+msgid "Church"
+msgstr "Chiesa"
+
+#: ../includes/common.php:429
+msgid "Share"
+msgstr ""
+
+#: ../includes/install.php:12
+#, fuzzy
+msgid "Manage Obituaries"
+msgstr "Parola per Necrologi"
+
+#: ../includes/install.php:26
+msgid "Edit This Obituary"
+msgstr ""
+
+#: ../includes/install.php:41
+#, fuzzy, php-format
+msgid "%s Pending Guestbook Post(s)"
+msgstr "Visiona Pubblicazioni Guestbook"
+
+#: ../includes/install.php:137
+#, fuzzy, php-format
+msgid "View %s postings"
+msgstr "Visiona Pubblicazioni Guestbook"
+
+#: ../includes/install.php:163
+#, fuzzy
+msgid "View Settings"
+msgstr "Settaggi"
+
+#: ../user/obits.php:143
+msgid "Print"
+msgstr ""
+
+#: ../user/obits.php:158
+msgid "Service Date"
+msgstr "Data Servizio"
+
+#: ../user/obits.php:337 ../user/shortcodes.php:65
+msgid "Veteran"
+msgstr "Veterano"
+
+#: ../user/obits.php:386 ../user/shortcodes.php:105
+#: ../user/widget-obits-anniversary.php:101
+#: ../user/widget-obits-anniversary.php:171 ../user/widget-obits.php:101
+#: ../user/widget-obits.php:175 ../user/widgets.php:85
+msgid "View More"
+msgstr "Visiona Di Più"
+
+#: ../user/obits.php:483
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:279
+#: ../../wp-funeral-home-cemetery/user/headstone.php:254
+msgid "Please type the correct security code."
+msgstr "Perfavore digitare il corretto codice di sicurezza"
+
+#: ../user/obits.php:592
+#, fuzzy, php-format
+msgid ""
+"Thank you for adding your message, your message show up right away on  %s's "
+msgstr ""
+"Grazie per aver aggiunto il tuo messaggio, il tuo messaggio è ora in attesa "
+"di approvazione. Una volta approvato riceverai una email e il messaggio "
+"apparirà su %s'"
+
+#: ../user/obits.php:596
+#, php-format
+msgid ""
+"Thank you for adding your message, your message is now awaiting approval. "
+"Once approved you will receive an email and the message will appear on %s's "
+msgstr ""
+"Grazie per aver aggiunto il tuo messaggio, il tuo messaggio è ora in attesa "
+"di approvazione. Una volta approvato riceverai una email e il messaggio "
+"apparirà su %s'"
+
+#: ../user/obits.php:607
+#, fuzzy
+msgid "You are currently posting as a guest, if you would like to register"
+msgstr ""
+"Stai attualmente pubblicando come guest, se desideri registrarti <a href=\""
+
+#: ../user/obits.php:607
+msgid "Click here"
+msgstr ""
+
+#: ../user/obits.php:628
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:370
+#: ../../wp-funeral-home-cemetery/user/headstone.php:323
+#, fuzzy
+msgid "Email"
+msgstr "Email:"
+
+#: ../user/obits.php:640
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../user/obits.php:660
+#, fuzzy
+msgid "Leave a message or tribute."
+msgstr "Lascia un messaggio o tributo per %s"
+
+#: ../user/obits.php:667
+#, fuzzy
+msgid "Upload your photo"
+msgstr "Carica la tua foto per %s"
+
+#: ../user/obits.php:672
+msgid "Write something about this photo"
+msgstr "Scrivi qualcosa riguardo a questa foto"
+
+#: ../user/obits.php:678
+msgid "Put the full youtube link below"
+msgstr "Inserisci il link completo di youtube qui sotto"
+
+#: ../user/obits.php:681
+msgid "Youtube Link"
+msgstr "Link Youtube"
+
+#: ../user/obits.php:682
+msgid "Write something about this video"
+msgstr "Scrivi qualcosa riguardo questo video"
+
+#: ../user/obits.php:694
+msgid "Check to hide your name"
+msgstr "Spunta per nascondere il tuo nome"
+
+#: ../user/obits.php:704
+msgid "Add Message"
+msgstr "Aggiungi Messaggio"
+
+#: ../user/obits.php:730
+#, php-format
+msgid ""
+"%s Does not have any %s posts. Be the first to add one by clicking here."
+msgstr ""
+"%s Non ha ancora nessuna pubblicazione %s. Cliccando qui per aggiungerne "
+"uno, sarai il primo"
+
+#: ../user/obits.php:747
+#, fuzzy
+msgid "Add A Message"
+msgstr "Aggiungi Messaggio"
+
+#: ../user/obits.php:763
+msgid "Anonymous"
+msgstr "Anonimo"
+
+#: ../user/obits.php:769
+msgid "Posted on"
+msgstr "Pubblicato su"
+
+#: ../user/obits.php:870
+#: ../../wp-funeral-home-cemetery/includes/woocommerce.php:91
+#: ../../wp-funeral-home-cemetery/source/includes/woocommerce.php:91
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/woocommerce.php:91
+msgid "Order Flowers"
+msgstr "Ordina Fiori"
+
+#: ../user/obits.php:882
+msgid "Admin Edit Obit"
+msgstr ""
+
+#: ../user/widget-obits-anniversary.php:11
+msgid "FuneralPress Anniversary"
+msgstr ""
+
+#: ../user/widget-obits-anniversary.php:12 ../user/widget-obits.php:12
+msgid "Displays the latest obits."
+msgstr ""
+
+#: ../user/widget-obits-anniversary.php:191 ../user/widget-obits.php:195
+#: ../user/widget-search.php:71 ../user/widgets.php:146
+#: ../user/widgets.php:175
+#: ../../wp-funeral-home-cemetery/source/user/widget-login.php:63
+#: ../../wp-funeral-home-cemetery/user/favorites.php:294
+#: ../../wp-funeral-home-cemetery/user/widget-login.php:63
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/widget-login.php:63
+msgid "Title"
+msgstr "Titolo"
+
+#: ../user/widget-obits-anniversary.php:193 ../user/widget-obits.php:197
+#: ../user/widget-search.php:73 ../user/widgets.php:176
+msgid "Text before the form"
+msgstr "Testo prima del form"
+
+#: ../user/widget-obits-anniversary.php:199 ../user/widget-obits.php:203
+#: ../user/widgets.php:153
+msgid "Blocks"
+msgstr "Blocchi"
+
+#: ../user/widget-obits-anniversary.php:199 ../user/widget-obits.php:203
+msgid "Non Formated Ordered List"
+msgstr ""
+
+#: ../user/widget-obits-anniversary.php:201 ../user/widget-obits.php:205
+#: ../user/widgets.php:154
+msgid "How many to display?"
+msgstr "Quanti da visionare?"
+
+#: ../user/widget-obits-anniversary.php:204 ../user/widget-obits.php:208
+#, fuzzy
+msgid "Show thumbnail?"
+msgstr "Mostra Dettagli"
+
+#: ../user/widget-obits-anniversary.php:206 ../user/widget-obits.php:210
+msgid "Special Class"
+msgstr ""
+
+#: ../user/widget-obits.php:11
+#, fuzzy
+msgid "FuneralPress Latest Obits"
+msgstr "Data Funerale"
+
+#: ../user/widget-search.php:11
+msgid "FuneralPress Search Widget"
+msgstr ""
+
+#: ../user/widget-search.php:12
+msgid "Displays a search widget"
+msgstr ""
+
+#: ../user/widget-search.php:75 ../user/widgets.php:177
+msgid "Enable First Name Field?"
+msgstr "Abilita Campo Nome?"
+
+#: ../user/widget-search.php:77 ../user/widgets.php:178
+msgid "Enable Last Name Field?"
+msgstr "Abilita Campo Cognome?"
+
+#: ../user/widget-search.php:79 ../user/widgets.php:179
+msgid "Enable Burial Date Field?"
+msgstr "Abilta Campo Sepoltura?"
+
+#: ../user/widgets.php:148
+msgid "Style"
+msgstr "Stile"
+
+#: ../../wp-funeral-home-cemetery/index.php:98
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:164
+#: ../../wp-funeral-home-cemetery/source/index.php:83
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:164
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:83
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:164
+msgid "Install Required Plugins"
+msgstr "Installa Plugins Richiesti"
+
+#: ../../wp-funeral-home-cemetery/index.php:99
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:165
+#: ../../wp-funeral-home-cemetery/source/index.php:84
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:165
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:84
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:165
+msgid "Install Plugins"
+msgstr "Installa Plugins"
+
+#: ../../wp-funeral-home-cemetery/index.php:100
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:166
+#: ../../wp-funeral-home-cemetery/source/index.php:85
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:166
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:85
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installazione Plugin: %s"
+
+#: ../../wp-funeral-home-cemetery/index.php:101
+#: ../../wp-funeral-home-cemetery/source/index.php:86
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:86
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa è andato storto con le API del plugin"
+
+#: ../../wp-funeral-home-cemetery/index.php:112
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:178
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:490
+#: ../../wp-funeral-home-cemetery/source/index.php:97
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:178
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:490
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:97
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:178
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Ritorna all' Installatore dei Plugins Richiesti"
+
+#: ../../wp-funeral-home-cemetery/index.php:113
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:179
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1847
+#: ../../wp-funeral-home-cemetery/source/index.php:98
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:179
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1847
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:98
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:179
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1847
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: ../../wp-funeral-home-cemetery/index.php:114
+#: ../../wp-funeral-home-cemetery/source/index.php:99
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/index.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tutti i plugins installati e attivati con successo. %s"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:129
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:68
+#: ../../wp-funeral-home-cemetery/admin/sections.php:123
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:129
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:68
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:123
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:129
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:68
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:123
+msgid "Name:"
+msgstr "Nome:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:137
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:76
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:137
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:76
+#: ../../wp-funeral-home-cemetery/source/user/cem.php:137
+#: ../../wp-funeral-home-cemetery/source/user/cem.php:193
+#: ../../wp-funeral-home-cemetery/user/cem.php:139
+#: ../../wp-funeral-home-cemetery/user/cem.php:195
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:137
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:76
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/cem.php:137
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/cem.php:193
+msgid "Address:"
+msgstr "Indirizzo:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:145
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:84
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:145
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:84
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:145
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:84
+msgid "City:"
+msgstr "Città:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:153
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:92
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:153
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:92
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:153
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:92
+msgid "State:"
+msgstr "Stato:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:161
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:100
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:161
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:100
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:161
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:100
+msgid "Zip:"
+msgstr "Zip:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:169
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:108
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:169
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:108
+#: ../../wp-funeral-home-cemetery/source/user/cem.php:133
+#: ../../wp-funeral-home-cemetery/source/user/cem.php:189
+#: ../../wp-funeral-home-cemetery/user/cem.php:135
+#: ../../wp-funeral-home-cemetery/user/cem.php:191
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:169
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:108
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/cem.php:133
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/cem.php:189
+msgid "Phone:"
+msgstr "Telefono:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:177
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:116
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:177
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:116
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:177
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:116
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:189
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:142
+#: ../../wp-funeral-home-cemetery/admin/sections.php:145
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:189
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:142
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:145
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:189
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:142
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:145
+msgid "Save"
+msgstr "Salva"
+
+#: ../../wp-funeral-home-cemetery/admin/churches.php:585
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:497
+#: ../../wp-funeral-home-cemetery/admin/sections.php:247
+#: ../../wp-funeral-home-cemetery/source/admin/churches.php:585
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:497
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:247
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/churches.php:585
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:497
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:247
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:38
+#: ../../wp-funeral-home-cemetery/admin/emails.php:52
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:38
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:52
+#: ../../wp-funeral-home-cemetery/user/headstone.php:122
+#: ../../wp-funeral-home-cemetery/user/headstone.php:153
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:38
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:52
+msgid "Update Obit Email"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:52
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:52
+#: ../../wp-funeral-home-cemetery/user/headstone.php:122
+#: ../../wp-funeral-home-cemetery/user/headstone.php:153
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:52
+msgid "Email that is sent to a user if they subscribe to an obit update"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:67
+#: ../../wp-funeral-home-cemetery/admin/emails.php:81
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:67
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:81
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:67
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:81
+#, fuzzy
+msgid "New Guestbook Post"
+msgstr "Visiona Pubblicazioni Guestbook"
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:81
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:81
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:81
+#, fuzzy
+msgid "Email that is sent to a user if they subscribe to a guestbook posting"
+msgstr ""
+"Questa è la mail che viene inviata all'utente dopo che hanno inserito una "
+"pubblicazione"
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:96
+#: ../../wp-funeral-home-cemetery/admin/emails.php:108
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:96
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:108
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:96
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:108
+msgid "Anniversary of Passing"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/admin/emails.php:108
+#: ../../wp-funeral-home-cemetery/source/admin/emails.php:108
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/emails.php:108
+msgid ""
+"Email that is sent to a user if they subscribe to a anniversary of passing"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:124
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:124
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:124
+msgid "Email:"
+msgstr "Email:"
+
+#: ../../wp-funeral-home-cemetery/admin/funeral.php:132
+#: ../../wp-funeral-home-cemetery/source/admin/funeral.php:132
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/funeral.php:132
+msgid "URL:"
+msgstr "URL:"
+
+#: ../../wp-funeral-home-cemetery/admin/sections.php:133
+#: ../../wp-funeral-home-cemetery/source/admin/sections.php:133
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/admin/sections.php:133
+msgid "Section image:"
+msgstr "Sezione immagine:"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:167
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:167
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:167
+msgid "Something went wrong."
+msgstr "Qualcosa è andato storto."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:180
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:180
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugins installati e attivati con successo %1$s"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:517
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:2059
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:517
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:2059
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:517
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:2059
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla Dashboard"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:545
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:545
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "I seguente plugin e stato attivato con successo: %s."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1091
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1091
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1091
+msgid "External Link"
+msgstr "Link Esterno"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1096
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1096
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1096
+msgid "Private Repository"
+msgstr "Repository Privata"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1099
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1099
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-Impacchettato"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1103
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1103
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1103
+msgid "WordPress Repository"
+msgstr "Repository Wordpress"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1106
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1106
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1106
+msgid "Required"
+msgstr "Richiesto"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1106
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1106
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1106
+msgid "Recommended"
+msgstr "Raccomandato"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1109
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1109
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1109
+msgid "Not Installed"
+msgstr "Non Installato"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1111
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1111
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1111
+msgid "Installed But Not Activated"
+msgstr "Installato Ma Non Attivato"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1281
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1281
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nessun plugin da installare o attivare. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Ritorna alla Dashboard</a>"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1297
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1297
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1298
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1298
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1298
+msgid "Source"
+msgstr "Sorgente"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1300
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1300
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1300
+msgid "Status"
+msgstr "Stato"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1318
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1318
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1318
+msgid "Install"
+msgstr "Installare"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1319
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1319
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1319
+msgid "Activate"
+msgstr "Attivare"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1830
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1830
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1830
+msgid "Install package not available."
+msgstr "Pacchetto installatore non disponibile."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1831
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1831
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1831
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Download del pacchetto installatore da <span class=\"code\">%s</span>&#8230;"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1832
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1832
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1832
+msgid "Unpacking the package&#8230;"
+msgstr "Scompattare il pacchetto&#8230;"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1833
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1833
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1833
+msgid "Installing the plugin&#8230;"
+msgstr "Installazione del plugin&#8230;"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1834
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1834
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1834
+msgid "Plugin install failed."
+msgstr "Installazione del plugin fallita."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1835
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1835
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1835
+msgid "Plugin installed successfully."
+msgstr "Plugin installato con successo"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1846
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1846
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1846
+msgid "Plugin activation failed."
+msgstr "Attivazione plugin fallita."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1956
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1956
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1956
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo di installazione e d'attivazione sta per partire. Questo "
+"processo potrebbe richiedere del tempo in qualche host, quindi per favore "
+"siate pazienti."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato e attivato con successo."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1966
+msgid "Show Details"
+msgstr "Mostra Dettagli"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1957
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1966
+msgid "Hide Details"
+msgstr "Nascondi Dettagli"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1958
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1958
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1958
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e le attivazioni sono state completate."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1959
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1959
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1959
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installando e Attivando Plugin %1$s (%2$d/%3$d)"
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1963
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1963
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1963
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Il processo di installazione stà partendo. Questo processo potrebbe "
+"richiedere un po' di tempo in qualche host, quindi per favore siate pazienti."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1964
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1964
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1964
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Un errore si è verificato installando %1$s: <strong>%2$s</strong>."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1965
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1965
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1965
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installazione di %1$s è fallita."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1966
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1966
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installato con successo."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1967
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1967
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1967
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: ../../wp-funeral-home-cemetery/includes/download-plugins.php:1968
+#: ../../wp-funeral-home-cemetery/source/includes/download-plugins.php:1968
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/download-plugins.php:1968
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installando Plugin %1$s (%2$d/%3$d)"
+
+#: ../../wp-funeral-home-cemetery/includes/woocommerce.php:78
+#: ../../wp-funeral-home-cemetery/source/includes/woocommerce.php:78
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/woocommerce.php:78
+msgid "Enable Woocommerce Flowers Tab"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/includes/woocommerce.php:78
+#: ../../wp-funeral-home-cemetery/source/includes/woocommerce.php:78
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/includes/woocommerce.php:78
+msgid ""
+"This replace the flowers tab and allows you to hook into the template and "
+"buy flowers from woocommerce"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:35
+#: ../../wp-funeral-home-cemetery/source/user/links.php:145
+#: ../../wp-funeral-home-cemetery/user/links.php:35
+#: ../../wp-funeral-home-cemetery/user/links.php:145
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:35
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:145
+msgid "Link"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:69
+#: ../../wp-funeral-home-cemetery/user/links.php:69
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:69
+msgid "Click to view"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:86
+#: ../../wp-funeral-home-cemetery/user/links.php:86
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:86
+#, fuzzy
+msgid "View Link"
+msgstr "Visiona Settaggi"
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:142
+#: ../../wp-funeral-home-cemetery/user/links.php:142
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:142
+msgid "Enter the link"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:145
+#: ../../wp-funeral-home-cemetery/user/links.php:145
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:145
+msgid "example"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/links.php:148
+#: ../../wp-funeral-home-cemetery/user/links.php:148
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/links.php:148
+#, fuzzy
+msgid "Write something about this link"
+msgstr "Scrivi qualcosa riguardo questo video"
+
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:230
+#: ../../wp-funeral-home-cemetery/user/profile.php:230
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:230
+#, fuzzy
+msgid "E-mail *"
+msgstr "Email:"
+
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:235
+#: ../../wp-funeral-home-cemetery/user/profile.php:235
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:235
+msgid "Password *"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:239
+#: ../../wp-funeral-home-cemetery/user/profile.php:239
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:239
+msgid "Repeat Password *"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/profile.php:243
+#: ../../wp-funeral-home-cemetery/user/profile.php:243
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/profile.php:243
+msgid "Biographical Information"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/widget-login.php:11
+#: ../../wp-funeral-home-cemetery/user/widget-login.php:11
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/widget-login.php:11
+msgid "FuneralPress Login Widget"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/source/user/widget-login.php:12
+#: ../../wp-funeral-home-cemetery/user/widget-login.php:12
+#: ../../wp-funeral-home-cemetery/wp-funeral-home-cemetery/user/widget-login.php:12
+msgid ""
+"A ajax login form will display if user is not logged in. Otherwise it will "
+"welcome the user and link to the profile."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:74
+#, php-format
+msgid "It looks like you already added %s %s to your favorites!"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:86
+#, php-format
+msgid ""
+"%s %s has been added to your favorites, you can quickly access your "
+"favorites in your profile at any time."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:104
+msgid "Favorited Obits"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:115
+msgid "Your Favorited Obits"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:119
+msgid "Removed Favorite!"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:148
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:159
+msgid ""
+"You currently do not have any favorites. To add a favorite search for an "
+"obit and click add to favorites"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:184
+msgid "Please Login to add a favorite"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:187
+#: ../../wp-funeral-home-cemetery/user/favorites.php:220
+msgid "OK"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:196
+#: ../../wp-funeral-home-cemetery/user/favorites.php:235
+msgid "Add to favorites"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:265
+#, fuzzy
+msgid "FuneralPress User Favorites"
+msgstr "Data Funerale"
+
+#: ../../wp-funeral-home-cemetery/user/favorites.php:266
+msgid "A widget to show the current users favorite obits."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:48
+#, php-format
+msgid "You have (%s) pending headstone fix requests."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:48
+msgid "Click here to view"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:86
+msgid "Request A Repair"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:91
+msgid "Headstone Fixes"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:116
+msgid "User: Request Headstone Repair"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:130
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:163
+msgid "Body"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:130
+msgid "This email is sent when a user requests a headstone fix"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:136
+msgid "photo of fixed property"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:149
+msgid "Admin: Request Headstone Repair"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:168
+#: ../../wp-funeral-home-cemetery/user/headstone.php:158
+#, fuzzy
+msgid "Headstone Approval page"
+msgstr "Pagina Di Approvazione"
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:283
+#: ../../wp-funeral-home-cemetery/user/headstone.php:258
+msgid "Please enter your name and email."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:356
+msgid "Type of repair"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:361
+#, php-format
+msgid "Please fill out the form below if you require a repair for %s %s."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:374
+#, fuzzy
+msgid "Phone"
+msgstr "Telefono:"
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:383
+#: ../../wp-funeral-home-cemetery/user/headstone.php:327
+msgid "Additional Info"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:389
+msgid "Request Repair"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:401
+msgid ""
+"Thank you for requesting a repair, we will contact you as soon as the repair "
+"is made."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone-fix.php:403
+msgid "A repair request has recently been made."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:48
+#, php-format
+msgid "You have (%s) pending headstone requests waiting to be approved."
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:48
+msgid "click here to approve them"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:78
+#, fuzzy
+msgid "View Headstone"
+msgstr "Visiona Di Più"
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:108
+msgid "User: Update Obit Headstone"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:139
+msgid "Admin: Update Obit Headstone"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:314
+#, php-format
+msgid ""
+"There is currently no headstone for %s %s, you can request one below free of "
+"charge"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:333
+msgid "Request Headstone"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:345
+msgid ""
+"Thank you for requesting a headstone photo, we will email you once we add "
+"the photo!"
+msgstr ""
+
+#: ../../wp-funeral-home-cemetery/user/headstone.php:347
+msgid ""
+"A request for the headstone photo has already been made, please check back "
+"soon."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Print QR Code"
+#~ msgstr "Codice QR"
+
+#~ msgid "Importer"
+#~ msgstr "Importatore"
+
+#~ msgid "Found"
+#~ msgstr "Trovato"
+
+#~ msgid "Add Message for %s"
+#~ msgstr "Aggiungi Messaggio per %s"
+
+#~ msgid "Plural Word for Obituaries"
+#~ msgstr "Parola al Plurale per Necrologi"
+
+#~ msgid ""
+#~ "The plural word for the word you chose for obituaries. Example: If you "
+#~ "chose Obituary then you would write Obituaries here."
+#~ msgstr ""
+#~ "La parola al plurale della parola che hai scielto per Necrologi. Esempio: "
+#~ "Se hai scielto Necrologio allora dovresti scrivere Necrologi"
